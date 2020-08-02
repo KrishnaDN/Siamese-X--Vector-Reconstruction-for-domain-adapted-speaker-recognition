@@ -1,0 +1,4 @@
+use_gpu: 1
+batch_size: 64
+num_epochs: 25
+n_warmup_steps: 50
